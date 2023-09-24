@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hetti and I'm an IT Security Expert
+- 👋 Hi, I’m Hetti and I'm an IT Security Expert
 - 👀 I’m interested in IT Security, Community Conferences and many more things.
   - You can check out [my conference visits and speaking engagements repo](https://github.com/Hetti/Talks-Confs)
 - 🌱 I’m currently learning a lot
